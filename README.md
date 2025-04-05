@@ -1,6 +1,6 @@
-# My Awesome Project
+# My Project
 
-This project uses a custom-trained neural network to classify medical images.
+This project combines the power of YOLO (You Only Look Once) for fast object detection with the C3TR (Context-aware Cross-scale Transformer for Object Tracking) architecture to enhance accuracy and context understanding on a custom dataset.
 
 ## 📁 Structure
 - `src/` contains training and evaluation code
