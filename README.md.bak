@@ -15,8 +15,7 @@ Install dependencies in Requirements.txt
 
 # YOLO + C3TR on Custom Dataset
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HastiRazipour/YOLO-C3TR/blob/main/yolo_c3tr_train.ipynb)
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](لینک شما اینجا)
 
 🔍 A hybrid object detection model combining YOLO and C3TR...
 
