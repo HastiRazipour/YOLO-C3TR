@@ -23,5 +23,4 @@ You can download the dataset from [Google Drive](https://drive.google.com/file/d
 
 
 # Result
-<img src="results/confusion_matrix_normalized.png" alt="Accuracy Plot" width="500"/>
-nlnlnl
+<img src="results/confusion_matrix_normalized.png" alt="Accuracy Plot" width="600"/>  

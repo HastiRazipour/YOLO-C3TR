@@ -4,7 +4,7 @@ This project combines the power of YOLO (You Only Look Once) for fast object det
 
 ## colab code for train
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HastiRazipour/YOLO-C3TR/blob/main/yolo_c3tr_train.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HastiRazipour/YOLO-C3TR/blob/main/YOLO-Transformer.ipynb)
 
 ## 📁 Structure
 - `src/` contains training and evaluation code
@@ -23,5 +23,4 @@ You can download the dataset from [Google Drive](https://drive.google.com/file/d
 
 
 # Result
-<img src="results/confusion_matrix_normalized.png" alt="Accuracy Plot" width="500"/>
-nlnlnl
+<img src="results/confusion_matrix_normalized.png" alt="Accuracy Plot" width="600"/>  
