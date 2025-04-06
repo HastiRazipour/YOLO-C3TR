@@ -23,14 +23,5 @@ You can download the dataset from [Google Drive](https://drive.google.com/file/d
 
 
 # Result
-[confusion_matrix](results/confusion_matrix_normalized.png)
-در این 
-[F1_curve](results/F1_curve.png)
-سیتزح
-[F1_curve](results/PR_curve.png)
-سیز
-[F1_curve](results/P_curve.png)
-ممجزش
-[F1_curve](results/results.png)
-
-[](results/val_batch0_pred.jpg)
+<img src="results/confusion_matrix_normalized.png" alt="Accuracy Plot" width="500"/>
+nlnlnl
